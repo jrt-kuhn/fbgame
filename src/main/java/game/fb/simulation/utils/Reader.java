@@ -1,4 +1,4 @@
-package main.java.game.fb.simulation.init;
+package main.java.game.fb.simulation.utils;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
