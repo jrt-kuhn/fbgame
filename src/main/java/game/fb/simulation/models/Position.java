@@ -6,7 +6,6 @@ package main.java.game.fb.simulation.models;
  * @author abhi
  */
 public enum Position {
-    DEFAULT,
     QUARTERBACK,
     RUNNINGBACK,
     TIGHT_END,
