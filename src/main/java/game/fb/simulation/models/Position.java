@@ -13,6 +13,6 @@ public enum Position {
     OFFENSIVE_LINEMAN,
     DEFENSIVE_LINEMAN,
     DEFENSIVE_END,
-    LINE_BACKER,
+    LINEBACKER,
     DEFENSIVE_BACK;
 }
