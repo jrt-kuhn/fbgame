@@ -1,1 +1,1 @@
-# College Football Simluation Game
+# College Football Simulation Game
